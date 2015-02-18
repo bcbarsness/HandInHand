@@ -20,7 +20,7 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Raleway";
+    font-family: 'Alegreya', serif;
     font-weight: 300;
     color: #333;
 }
@@ -102,7 +102,7 @@ a:after {
 #headerwrap h1 {
 	margin-top: 130px;
 	color: white;
-	font-size: 100px;
+	font-size: 75px;
 	font-weight: 700;
 	letter-spacing: 3px;
 }
@@ -474,4 +474,34 @@ a:after {
     overflow: visible;
     padding-top: 0;
     padding-bottom: 0; 
+}
+
+#picture-right {
+    float: right;
+    border: 10px solid #c0c0c0;
+    padding: 0px;
+    margin: 10px 10px;
+}
+#picture-left {
+    float: left;
+    border: 10px solid #c0c0c0;
+    padding: 0px;
+    margin: 10px 10px;
+} 
+.paragraph {
+	color: #000000;
+	text-align: left;
+	font-size: x-large;
+}
+
+#text-block-1 {
+	padding-top: 60px;
+}
+
+#text-block-2 {
+	padding-top: 150px;
+}
+
+#text-block-3 {
+	padding-top: 60px;
 }
