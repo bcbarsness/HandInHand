@@ -403,7 +403,7 @@ a:after {
 
 #menuToggle {
 	position: absolute;
-	top: 20px;
+	bottom: 200px;
 	left: 0;
 	z-index: 11;
 	display: block;
